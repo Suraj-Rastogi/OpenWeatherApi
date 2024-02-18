@@ -12,7 +12,7 @@ import com.springboot.Service.WeatherService;
 @CrossOrigin(origins = "http://localhost:3000")
 @RestController
 public class WeatherController {
-
+//test feature1
     @Autowired
     private WeatherService weatherService;
 
