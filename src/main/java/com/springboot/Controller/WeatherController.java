@@ -13,6 +13,7 @@ import com.springboot.Service.WeatherService;
 @RestController
 public class WeatherController {
 //test feature1git  new feature is added for changes
+//Test the new feature of java in the vs code
     @Autowired
     private WeatherService weatherService;
 
